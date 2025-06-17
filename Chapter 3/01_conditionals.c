@@ -9,7 +9,7 @@ int main(){
     }
     if(age%5==0){
         printf("We are inside another if\n");
-        printf("Your age is divisible by 50\n");
+        printf("Your age is divisible by 5\n");
     }
     return 0;
 }
